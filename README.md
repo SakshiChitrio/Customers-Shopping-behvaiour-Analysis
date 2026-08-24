@@ -50,11 +50,10 @@ An e-commerce company wants to understand customer behavior beyond basic sales r
 1.  Download the Cleaned CSV from /Data folder.
 2.  Open the .ipynb file from /Python folder in Jupyter Notebook.
 3.  Import SQL queries from /SQL folder into MySQL Workbench.
-
+4.  Open .pbix file from /Dashboard folder in Power BI Desktop.
+   
 ## 👩‍💻 Author and Contact
 **Sakshi Chitrio**\
  Aspiring Data Analyst\
 📧 Email: chitriosakshi@gmail.com\
-5.  Open .pbix file from /Dashboard folder in Power BI Desktop.
 
-Created by Sakshi Chitrio
